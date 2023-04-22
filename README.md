@@ -58,4 +58,7 @@
 * 
 
 ## Faster RCNN框架图
-![Faster R-CNN](Faster R-CNN.png) 
+<p align="center">
+  <img src="Faster R-CNN.png" />
+</p>
+
