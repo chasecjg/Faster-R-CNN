@@ -54,7 +54,7 @@
 * 使用validation文件时，注意确保你的验证集或者测试集中必须包含每个类别的目标，并且使用时只需要修改`--num-classes`、`--data-path`和`--weights-path`即可，其他代码尽量不要改动
 
 ## 进一步了解该项目，以及对Faster RCNN代码的分析可参考我的CSDN:
-* 
+* 更新中...
 
 ## Faster RCNN框架图
 <p align="center">
